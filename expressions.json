@@ -1,0 +1,168 @@
+{
+  "version": "1.0.0",
+  "source": "https://tubelang.com",
+  "license": "CC BY 4.0",
+  "expressions": [
+    {
+      "expression": "괜찮아요",
+      "romanization": "gwaenchanayo",
+      "literal": "It's okay / I'm fine",
+      "real_meanings": [
+        "Dismissal: Don't worry about it",
+        "Polite refusal: No thank you, I can handle it",
+        "Acceptance: That works for me",
+        "Suppressed hurt: I'm choosing not to make this a thing"
+      ],
+      "register": "polite (해요체)",
+      "frequency": "very high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/gwaenchanayo",
+      "search_url": "https://tubelang.com/ko/en/search?q=괜찮아요"
+    },
+    {
+      "expression": "그냥",
+      "romanization": "geunyang",
+      "literal": "Just",
+      "real_meanings": [
+        "No reason: 그냥 왔어 (I came for no reason)",
+        "Never mind: 그냥... (trailing off)",
+        "Leave it: 그냥 둬",
+        "It is what it is: 그냥 그래",
+        "Without purpose: 그냥 보고 있어"
+      ],
+      "register": "neutral",
+      "frequency": "very high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/geunyang",
+      "search_url": "https://tubelang.com/ko/en/search?q=그냥"
+    },
+    {
+      "expression": "눈치",
+      "romanization": "nunchi",
+      "literal": "Eye-measure",
+      "real_meanings": [
+        "Social awareness: Reading the room without being told",
+        "눈치가 빠르다: Socially perceptive (compliment)",
+        "눈치가 없다: Socially oblivious (criticism)",
+        "눈치를 보다: To gauge someone's reaction before acting"
+      ],
+      "register": "neutral",
+      "frequency": "high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/nunji",
+      "search_url": "https://tubelang.com/ko/en/search?q=눈치"
+    },
+    {
+      "expression": "대박",
+      "romanization": "daebak",
+      "literal": "Jackpot",
+      "real_meanings": [
+        "Genuine amazement: 대박! (Wow!)",
+        "Disbelief: 대박... (No way...)",
+        "Sarcasm: 대박이다 (Yeah, great...)",
+        "Excitement: 대박 대박! (That's amazing!)",
+        "Horror: 대박... (Oh no...)",
+        "Casual emphasis: 대박 맛있어 (It's crazy good)"
+      ],
+      "register": "casual",
+      "frequency": "very high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/daebak",
+      "search_url": "https://tubelang.com/ko/en/search?q=대박"
+    },
+    {
+      "expression": "서운해요",
+      "romanization": "seounhaeyo",
+      "literal": "Feeling disappointed/hurt",
+      "real_meanings": [
+        "Relational hurt: Quiet disappointment when someone close lets you down",
+        "Not anger, not sadness — a specific relational emotion",
+        "Can only be felt toward someone you expected better from"
+      ],
+      "register": "polite (해요체)",
+      "frequency": "high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/seounhaeyo",
+      "search_url": "https://tubelang.com/ko/en/search?q=서운해요"
+    },
+    {
+      "expression": "어떡해",
+      "romanization": "eotteokhae",
+      "literal": "What do I do",
+      "real_meanings": [
+        "어떡해: Panic or helplessness (present)",
+        "어떡하지: Internal worry (wondering to oneself)",
+        "어떡하냐: Challenging someone (confrontational)"
+      ],
+      "register": "casual",
+      "frequency": "very high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/eotteokhae",
+      "search_url": "https://tubelang.com/ko/en/search?q=어떡해"
+    },
+    {
+      "expression": "솔직히",
+      "romanization": "soljighi",
+      "literal": "Honestly",
+      "real_meanings": [
+        "Social move: Signals vulnerability before sharing something personal",
+        "Not just an adverb — a strategic softener in conversation",
+        "Creates space for honesty without confrontation"
+      ],
+      "register": "neutral",
+      "frequency": "high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/soljighi",
+      "search_url": "https://tubelang.com/ko/en/search?q=솔직히"
+    },
+    {
+      "expression": "맞아요",
+      "romanization": "matayo",
+      "literal": "That's right",
+      "real_meanings": [
+        "맞아요: Polite agreement",
+        "맞아: Casual agreement between friends",
+        "맞지: Seeking confirmation (right?)"
+      ],
+      "register": "varies",
+      "frequency": "very high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/matayo",
+      "search_url": "https://tubelang.com/ko/en/search?q=맞아요"
+    },
+    {
+      "expression": "있잖아요",
+      "romanization": "itjanayo",
+      "literal": "You know",
+      "real_meanings": [
+        "Conversation opener: The word Koreans say before saying what they actually want",
+        "Attention getter: 있잖아... (Hey, so...)",
+        "Softener: Eases into a request or sensitive topic"
+      ],
+      "register": "polite informal",
+      "frequency": "high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/itjanayo",
+      "search_url": "https://tubelang.com/ko/en/search?q=있잖아요"
+    },
+    {
+      "expression": "고민이에요",
+      "romanization": "gominieyo",
+      "literal": "It's a worry/concern",
+      "real_meanings": [
+        "Actively wrestling with a decision",
+        "Heavier than 'thinking about it' but not yet resolved",
+        "고민 중이에요: Currently in the process of deliberating"
+      ],
+      "register": "polite (해요체)",
+      "frequency": "medium-high",
+      "guide_url": "https://tubelang.com/korean-expressions/en/gominieyo",
+      "search_url": "https://tubelang.com/ko/en/search?q=고민이에요"
+    },
+    {
+      "expression": "부담스러워요",
+      "romanization": "budamseureowoyo",
+      "literal": "It's burdensome",
+      "real_meanings": [
+        "Invisible social pressure from someone's expectations or generosity",
+        "Not physical burden — emotional/social weight",
+        "Common when receiving expensive gifts or unwanted attention"
+      ],
+      "register": "polite (해요체)",
+      "frequency": "medium",
+      "guide_url": "https://tubelang.com/korean-expressions/en/budamseureowoyo",
+      "search_url": "https://tubelang.com/ko/en/search?q=부담스러워요"
+    }
+  ]
+}
